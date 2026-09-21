@@ -1,4 +1,4 @@
 # honoursproject-prototype
 This is my first Git Repository.
 <br>
-Author - Chandani Parate 
+Author - Chandani Parate (As a Tester)
